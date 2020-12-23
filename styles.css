@@ -1,0 +1,43 @@
+/* add your CSS here */
+.name{
+    color: rgb(170, 71, 5);
+}
+
+.image{
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    filter: brightness(85%);
+}
+
+.fact{
+    font-style: italic;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.label{
+    font-weight: bold;
+}
+
+#list{
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.outer-border{
+    border: 6px black solid;
+    padding: 10px;
+    width: 300px
+}
+
+.inner-border{
+    border: 3px black solid;
+}
+
+.information-part{
+    margin-left: 10px;
+    margin-right: 10px;
+}
